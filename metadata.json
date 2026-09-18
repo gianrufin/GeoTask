@@ -1,0 +1,6 @@
+{
+  "name": "GeoReminder",
+  "description": "Battery-efficient offline geolocation reminder with weekday scheduling, local notifications, custom accessibility themes, and one-tap quick logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
